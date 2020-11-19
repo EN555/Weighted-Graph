@@ -1,4 +1,4 @@
-package ex1.test;
+package ex1.tests;
 
 import static org.junit.jupiter.api.Assertions.*;
 
